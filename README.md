@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pumoco
 - 👀 I’m interested in developing and learn new tech
-- 🌱 I’m currently learning Ruby & Ruby on Rails & Python
-- 💞️ I’m looking to collaborate on Ruby and Python projects.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me: pumopro@gmail.com
 
 <!---
