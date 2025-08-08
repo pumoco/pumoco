@@ -1,6 +1,4 @@
 - 👋 Hi, I’m PuMo
-- 👀 I’m interested in developing and learn new tech
-- 💞️ I’m looking to collaborate on Python | ML | DS  projects.
 - 📫 How to reach me: pumoco@proton.me
 
 <!---
