@@ -1,5 +1,5 @@
-- 👋 Hi, I’m PuMo
-- 📫 How to reach me: pumoco@proton.me
+- 👋 Hi, I’m SajjadPuMo
+- 📫 How to reach me: pumornd@gmail.com
 
 <!---
 pumoco/pumoco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
